@@ -1,0 +1,42 @@
+Partlist
+
+Exported from IC test1.brd at 4/14/2016 10:50:09 PM
+
+EAGLE Version 6.6.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value                   Package             Library                    Position (inch)       Orientation
+
+C1       0.1uF                   C025-024X044        resistor                   (0.95 5.225)          R0
+C2       0.1uF                   C025-024X044        resistor                   (2.875 4.975)         R0
+C4       0.1uF                   C025-024X044        resistor                   (2.825 1.425)         R0
+C5       0.1u                    C025-024X044        resistor                   (3 0.675)             R270
+D1       1N5819                  DO41-10             CEDT_JANUARY_2015_v5       (3.725 2.325)         R270
+D2       1N5819                  DO41-10             CEDT_JANUARY_2015_v5       (3.875 2.325)         R270
+J1                               SPC4077             con-jack                   (3.75 1)              R180
+LCD1                             16X2_LCD            CEDT_JANUARY_2015_v5       (0.575 3.675)         R0
+LED1     LED5MM                  LED5MM              CEDT_JANUARY_2015_v5       (3.875 1.575)         R180
+LED2     LED5MM                  LED5MM              CEDT_JANUARY_2015_v5       (2.925 2.275)         R0
+LED3     LED5MM                  LED5MM              CEDT_JANUARY_2015_v5       (3.225 2.275)         R0
+LED4     LED5MM                  LED5MM              CEDT_JANUARY_2015_v5       (1.075 2.275)         R0
+LED5     LED5MM                  LED5MM              CEDT_JANUARY_2015_v5       (0.775 2.275)         R0
+R1       10k                     0204/7              rcl                        (0.425 2.625)         R0
+R2       470                     0204/7              rcl                        (3.725 1.375)         R0
+R3       10k                     0204/7              rcl                        (0.325 2.125)         R90
+R4       10k                     0204/7              rcl                        (0.425 2.125)         R270
+R5       1k                      0204/7              rcl                        (1.35 0.4)            R270
+R6       330                     0204/7              rcl                        (2.125 5.225)         R0
+R8       470                     0204/7              rcl                        (2.875 1.925)         R270
+R9       470                     0204/7              rcl                        (2.975 1.925)         R270
+R10      470                     0204/7              rcl                        (0.975 2.575)         R180
+R11      470                     0204/7              rcl                        (0.775 1.975)         R180
+S1                               B3F-40XX            switch-omron               (0.625 1.525)         R180
+S2                               B3F-40XX            switch-omron               (0.625 0.575)         R180
+S3                               B3F-40XX            switch-omron               (3.675 0.525)         R180
+S4                               SWITCH-SPDT         SparkFun-Electromechanical (3.425 1.525)         R0
+S6                               SWITCH-SPDT         SparkFun-Electromechanical (3.15 1.525)          R0
+SL2                              02P                 CEDT_JANUARY_2015_v5       (3.175 1.025)         R180
+U$1      HC-05(BLUETOOTH_MODULE) HC-05               CEDT_JANUARY_2015_v5       (2.075 0.475)         R180
+U1       ARDUINO-MEGAPRO-5V      ARDUINO_MEGA-PRO-5V SparkFun-Boards            (0.375 4.825)         MR180
+V1       7400N                   DIL14               74ttl-din                  (2.125 1.575)         R270
